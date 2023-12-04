@@ -1,0 +1,10 @@
+{
+  "name": "shib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "viem": "^1.19.11"
+  }
+}
